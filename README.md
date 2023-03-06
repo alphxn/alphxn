@@ -7,5 +7,5 @@ If you want inspiration through open-source repositories you are use any of proj
 ## Discord
 
 <a href="https://discord.com/users/854588455119618059">
-  <img src="https://lanyard-profile-readme.vercel.app/api/673489564962258944"align="left" />
+  <img src="https://lanyard.cnrad.dev/api/854588455119618059"align="left" />
 </a>
