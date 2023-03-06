@@ -4,8 +4,4 @@
 
 If you want inspiration through open-source repositories you are use any of projects. All projects have no copyright.
 
-## Discord
-
-<a href="https://discord.com/users/854588455119618059">
-  <img src="https://lanyard.cnrad.dev/api/854588455119618059"align="left" />
-</a>
+[![Discord](https://lanyard.cnrad.dev/api/854588455119618059)](https://discord.com/users/854588455119618059)
