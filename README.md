@@ -5,7 +5,7 @@
 If you want inspiration through open-source repositories you are use any of projects. All projects have no copyright.
 
 ## Discord 
-[Link](https://discord.com/users/https://lanyard.cnrad.dev/api/854588455119618059)
+[Link](https://discord.com/users/854588455119618059)
 
 Give feedback :3
 
